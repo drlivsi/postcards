@@ -1,9 +1,3 @@
----
-layout: page
-title: "Privacy Policy"
-permalink: /privacy-policy/
----
-
 *My Postcards*
 
 **Privacy Policy**
