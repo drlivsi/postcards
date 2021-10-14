@@ -1,4 +1,5 @@
-*My Postcards*
+[Privacy Policy](./privacy-policy)
+[Terms & Conditions](./terms-conditions)
 
 **Contact Us**
 
