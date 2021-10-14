@@ -2,9 +2,7 @@
 layout: default
 ---
 
-*My Postcards*
-
-**Privacy Policy**
+## Privacy Policy
 
 Viktor Levytskyi built the My Postcards app as an Ad Supported app. This SERVICE is provided by Viktor Levytskyi at no cost and is intended for use as is.
 
@@ -66,3 +64,5 @@ This policy is effective as of 2021-10-14
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at drlivsi2@gmail.com.
+
+[back](./)
