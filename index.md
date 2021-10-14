@@ -1,5 +1,5 @@
 
-[<img src="{{get-it-google-play.png | relative_url}}" alt="get it on google play" />](./privacy-policy)
+[<img src="{{/assets/img/get-it-google-play.png | relative_url}}" alt="get it on google play" />](./privacy-policy)
 
 **Contact Us**
 
