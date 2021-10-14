@@ -1,5 +1,10 @@
+**Select category**
 
-[<img src="./assets/img/get-it-google-play.png" alt="get it on google play" />](./privacy-policy)
+<img src="./assets/img/categories.png" alt="select category" />
+
+**Share image with your friends**
+
+<img src="./assets/img/share.png" alt="share image" />
 
 **Contact Us**
 
