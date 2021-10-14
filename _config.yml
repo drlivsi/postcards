@@ -1,5 +1,5 @@
 title: My Postcards
 logo: /assets/img/logo.png
 description: My Postcards mobile application
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal

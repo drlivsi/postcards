@@ -1,5 +1,5 @@
-[Privacy Policy](./privacy-policy)
-[Terms & Conditions](./terms-conditions)
+
+[<img src="{{get-it-google-play | relative_url}}" alt="get it on google play" />](./privacy-policy)
 
 **Contact Us**
 
