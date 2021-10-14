@@ -1,5 +1,5 @@
 
-[<img src="/assets/img/get-it-google-play.png" alt="get it on google play" />](./privacy-policy)
+[<img src="./assets/img/get-it-google-play.png" alt="get it on google play" />](./privacy-policy)
 
 **Contact Us**
 
